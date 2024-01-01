@@ -43,6 +43,9 @@ The project's main goal was to develop an artificial intelligence capable of win
 ## Demo / Screenshots
 
 - Main menu:
-  
+  ![Menu SS](./templates/menu_SS.png)
 - Game:
+  ![Game SS](./templates/Game_SS.png)
 
+
+Enjoy playing Connect 4!
