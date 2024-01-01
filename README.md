@@ -42,9 +42,9 @@ The project's main goal was to develop an artificial intelligence capable of win
 
 ## Demo / Screenshots
 
-- Main menu:
+### Main menu:
   ![Menu SS](./templates/menu_SS.png)
-- Game:
+### Game:
   ![Game SS](./templates/Game_SS.png)
 
 
