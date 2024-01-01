@@ -48,4 +48,4 @@ The project's main goal was to develop an artificial intelligence capable of win
   ![Game SS](./templates/Game_SS.png)
 
 
-Enjoy playing Connect 4!
+Enjoy playing Conecta4!
